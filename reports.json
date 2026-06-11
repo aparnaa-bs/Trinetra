@@ -48,5 +48,110 @@
         "report_id": "2e86e43b",
         "message": "students are selling drugs near campus",
         "timestamp": "2026-06-11 15:05:53.395875"
+    },
+    {
+        "report_id": "861ca40b",
+        "message": "students are selling drugs near campus",
+        "timestamp": "2026-06-11 15:21:12.606065",
+        "evidence": []
+    },
+    {
+        "report_id": "3dfd52c4",
+        "message": "yes",
+        "timestamp": "2026-06-11 15:21:28.460543",
+        "evidence": []
+    },
+    {
+        "report_id": "e7152387",
+        "message": "Media Evidence",
+        "timestamp": "2026-06-11 15:24:52.320013",
+        "evidence": [
+            {
+                "type": "image/jpeg",
+                "url": "https://api.twilio.com/2010-04-01/Accounts/ACbcad53f60c55593ef3230af670416a53/Messages/MM4a2385b2673823934855b8ba61ec4cc7/Media/ME7b5a1693eff8e0224a43cf4919620d5b"
+            }
+        ]
+    },
+    {
+        "report_id": "20a16225",
+        "message": "students are selling drugs near the bus stand",
+        "timestamp": "2026-06-11 15:29:49.126263",
+        "evidence": []
+    },
+    {
+        "report_id": "1a59e2df",
+        "message": "yes",
+        "timestamp": "2026-06-11 15:30:02.966738",
+        "evidence": []
+    },
+    {
+        "report_id": "306b3353",
+        "message": "no",
+        "timestamp": "2026-06-11 15:30:23.443373",
+        "evidence": []
+    },
+    {
+        "report_id": "7258089f",
+        "message": "",
+        "timestamp": "2026-06-11 15:31:47.499490",
+        "evidence": []
+    },
+    {
+        "report_id": "97ccdd94",
+        "message": "",
+        "timestamp": "2026-06-11 15:33:19.310621",
+        "evidence": []
+    },
+    {
+        "report_id": "TRN-792C2608",
+        "message": "a gang is selling drugs near school campus",
+        "timestamp": "2026-06-11 15:36:37.890463",
+        "evidence": []
+    },
+    {
+        "report_id": "TRN-C84B0D8B",
+        "message": "a gang is selling drugs near school campus",
+        "timestamp": "2026-06-11 15:37:31.773014",
+        "evidence": []
+    },
+    {
+        "report_id": "TRN-C84B0D8B",
+        "message": "Media Evidence",
+        "timestamp": "2026-06-11 15:38:17.763196",
+        "evidence": [
+            {
+                "type": "image/jpeg",
+                "url": "https://api.twilio.com/2010-04-01/Accounts/ACbcad53f60c55593ef3230af670416a53/Messages/MM16bf8225e5432daed18137a56d261b23/Media/ME83d43cab43d18bd7e5486db41efd68e1"
+            }
+        ]
+    },
+    {
+        "report_id": "TRN-8CC3B45C",
+        "message": "a group of young people are using drugs in our campus",
+        "timestamp": "2026-06-11 15:38:58.810352",
+        "evidence": []
+    },
+    {
+        "report_id": "TRN-72233190",
+        "message": "Students are selling drugs on our campus",
+        "timestamp": "2026-06-11 15:43:44.870381",
+        "evidence": []
+    },
+    {
+        "report_id": "TRN-72233190",
+        "message": "Media Evidence",
+        "timestamp": "2026-06-11 15:44:09.680073",
+        "evidence": [
+            {
+                "type": "image/jpeg",
+                "url": "https://api.twilio.com/2010-04-01/Accounts/ACbcad53f60c55593ef3230af670416a53/Messages/MM7eee3cdd306fcf5f1eaf0592e531bade/Media/ME49911ec8110b7f2f999983527f4da1a4"
+            }
+        ]
+    },
+    {
+        "report_id": "TRN-78FF6917",
+        "message": "A group of people are selling drugs near bus stand",
+        "timestamp": "2026-06-11 15:44:44.832734",
+        "evidence": []
     }
 ]
