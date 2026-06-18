@@ -3,10 +3,9 @@ from twilio.twiml.messaging_response import MessagingResponse
 from app.storage import save_report, save_media
 import requests
 import secrets
-import dotenv
 
 app = FastAPI()
-load_dotenv()
+
 API_KEY = "GEMINI_API_KEY"
 
 # Stores latest report ID for each WhatsApp user
