@@ -6,7 +6,7 @@ import secrets
 
 app = FastAPI()
 
-API_KEY = "AIzaSyDl0NAsCQZ7Po-VLH_g4U0y1emnPsXXQY4"
+API_KEY = "GEMINI_API_KEY"
 
 # Stores latest report ID for each WhatsApp user
 pending_reports = {}
